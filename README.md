@@ -1,1 +1,1 @@
-# This repository contains the javav code for basic oops implementation
+This repository contains the java code for basic oops implementation
